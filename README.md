@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 	<head>
-		<title># Sql-ex.ru-Solutions</title>
+		<!--<title># Sql-ex.ru-Solutions</title>-->
 	</head>
 	<body>
 		<h2>Solutions to SQL problems at http://www.sql-ex.ru.</h2>
