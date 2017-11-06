@@ -1,11 +1,10 @@
 <!DOCTYPE html>
 <html>
 	<head>
-		<title>HackerRank Solutions</title>
-		<h2># Sql-ex.ru-Solutions
-			Solutions to SQL problems at http://www.sql-ex.ru.</h2>
+		<title># Sql-ex.ru-Solutions</title>
 	</head>
 	<body>
+		<h2>Solutions to SQL problems at http://www.sql-ex.ru.</h2>
 		<ul>
 			<li><h3><a href="https://github.com/shivkrthakur/Sql-ex.ru-Solutions/tree/master/SQLExercises/SELECT%20(learning%20stage)">SELECT (learning stage)</a></h3>
 				<ul>
