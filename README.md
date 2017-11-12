@@ -22,6 +22,7 @@
 					<li><a href="https://github.com/shivkrthakur/Sql-ex.ru-Solutions/blob/master/SQLExercises/SELECT%20(learning%20stage)/Exercise1.sql">Excercise 1</a></li>
 					<li><a href="https://github.com/shivkrthakur/Sql-ex.ru-Solutions/blob/master/SQLExercises/SELECT%20(learning%20stage)/Exercise2.sql">Excercise 2</a></li>
 					<li><a href="https://github.com/shivkrthakur/Sql-ex.ru-Solutions/blob/master/SQLExercises/SELECT%20(learning%20stage)/Exercise3.sql">Excercise 3</a></li>
+					<li><a href="https://github.com/shivkrthakur/Sql-ex.ru-Solutions/blob/master/SQLExercises/SELECT%20(learning%20stage)/Exercise4.sql">Excercise 4</a></li>
 				</ul>
 			</li>
 		</ul>
