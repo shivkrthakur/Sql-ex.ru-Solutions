@@ -17,7 +17,7 @@
 					</li>
 				</ul>
 			</li>		
-			<li><h3><a href="https://github.com/shivkrthakur/Sql-ex.ru-Solutions/tree/master/SQLExercises/SELECT%20(LEARNING%20STAGE)">SELECT (LEARNING STAGE)</a></h3>
+			<li><h3><a href="https://github.com/shivkrthakur/Sql-ex.ru-Solutions/tree/master/SQLExercises/SELECT%20(LEARNING%20STAGE)">Select (Learning Stage)</a></h3>
 				<ul>
 					<li><a href="https://github.com/shivkrthakur/Sql-ex.ru-Solutions/tree/master/SQLExercises/SELECT%20(LEARNING%20STAGE)/Exercise1.sql">Excercise 1</a></li>
 					<li><a href="https://github.com/shivkrthakur/Sql-ex.ru-Solutions/tree/master/SQLExercises/SELECT%20(LEARNING%20STAGE)/Exercise2.sql">Excercise 2</a></li>
