@@ -33,6 +33,8 @@
 					<li><a href="https://github.com/shivkrthakur/Sql-ex.ru-Solutions/tree/master/SQLExercises/SELECT%20(LEARNING%20STAGE)/Exercise12.sql">Excercise 12</a></li>
 					<li><a href="https://github.com/shivkrthakur/Sql-ex.ru-Solutions/tree/master/SQLExercises/SELECT%20(LEARNING%20STAGE)/Exercise13.sql">Excercise 13</a></li>
 					<li><a href="https://github.com/shivkrthakur/Sql-ex.ru-Solutions/tree/master/SQLExercises/SELECT%20(LEARNING%20STAGE)/Exercise14.sql">Excercise 14</a></li>
+					<li><a href="https://github.com/shivkrthakur/Sql-ex.ru-Solutions/tree/master/SQLExercises/SELECT%20(LEARNING%20STAGE)/Exercise15.sql">Excercise 15</a></li>
+					<li><a href="https://github.com/shivkrthakur/Sql-ex.ru-Solutions/tree/master/SQLExercises/SELECT%20(LEARNING%20STAGE)/Exercise16.sql">Excercise 16</a></li>
 				</ul>
 			</li>
 		</ul>
