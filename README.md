@@ -7,12 +7,20 @@
 		<ul>
 			<li><h3><a href="https://github.com/shivkrthakur/Sql-ex.ru-Solutions/tree/master/SQLExercises/DATABASES">DATABASES</a></h3>
 				<ul>
-					<li><a href="https://github.com/shivkrthakur/Sql-ex.ru-Solutions/tree/master/SQLExercises/DATABASES/COMPUTER%20FIRM">ComputerFirm</a>
+					<li><a href="https://github.com/shivkrthakur/Sql-ex.ru-Solutions/tree/master/SQLExercises/DATABASES/COMPUTER%20FIRM">COMPUTER FIRM</a>
 						<ul>
 							<li><a href="https://github.com/shivkrthakur/Sql-ex.ru-Solutions/tree/master/SQLExercises/DATABASES/COMPUTER%20FIRM/PRODUCT.SQL">PRODUCT</a></li>	
 							<li><a href="https://github.com/shivkrthakur/Sql-ex.ru-Solutions/tree/master/SQLExercises/DATABASES/COMPUTER%20FIRM/PC.SQL">PC</a></li>
 							<li><a href="https://github.com/shivkrthakur/Sql-ex.ru-Solutions/tree/master/SQLExercises/DATABASES/COMPUTER%20FIRM/PRINTER.SQL">PRINTER</a></li>
 							<li><a href="https://github.com/shivkrthakur/Sql-ex.ru-Solutions/tree/master/SQLExercises/DATABASES/COMPUTER%20FIRM/LAPTOP.SQL">LAPTOP</a></li>
+						</ul>
+					</li>
+					<li><a href="https://github.com/shivkrthakur/Sql-ex.ru-Solutions/tree/master/SQLExercises/DATABASES/RECYCLING%20FIRM">RECYCLING FIRM</a>
+						<ul>
+							<li><a href="https://github.com/shivkrthakur/Sql-ex.ru-Solutions/blob/master/SQLExercises/DATABASES/RECYCLING%20FIRM/INCOME.SQL">INCOME</a></li>	
+							<li><a href="https://github.com/shivkrthakur/Sql-ex.ru-Solutions/blob/master/SQLExercises/DATABASES/RECYCLING%20FIRM/INCOME_O.SQL">INCOME_O</a></li>
+							<li><a href="https://github.com/shivkrthakur/Sql-ex.ru-Solutions/blob/master/SQLExercises/DATABASES/RECYCLING%20FIRM/OUTCOME.SQL">OUTCOME</a></li>
+							<li><a href="https://github.com/shivkrthakur/Sql-ex.ru-Solutions/blob/master/SQLExercises/DATABASES/RECYCLING%20FIRM/OUTCOME_O.SQL">OUTCOME_O</a></li>
 						</ul>
 					</li>
 				</ul>
